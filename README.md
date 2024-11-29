@@ -1,30 +1,13 @@
+# IstaScan
 
-## QR Scanner App
-
-A Mobile-based QR Scanner and Generator App.
-
-
+A project that is used for scanners and also creates barcode generators complete with a splash screen and also features share links and barcode images.
 
 ## Features
 
-- QR Scanner Page
-- QR Generator Page
-
-
-## Tech Stack
-
-**Front-End:** 
-
-- Dart v.3.2.4 (stable)
-- Flutter v.3.24.5 (stable channel)
-
-**Dependencies:** 
-
-- mobile_scanner
-- pretty_qr_code
-
+- QR Scanner
+- Barcode Generator
+- Share Link and Barcode Image
 
 ## Usage
 
-Needs user's permission to allow their camera.
-
+User permission is required to open the camera.
