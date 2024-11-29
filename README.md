@@ -1,4 +1,4 @@
-# IstaScan
+# InstaScan
 
 A project that is used for scanners and also creates barcode generators complete with a splash screen and also features share links and barcode images.
 
